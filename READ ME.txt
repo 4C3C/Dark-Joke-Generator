@@ -1,0 +1,11 @@
+Application Information:
+Developed and Designed By: 4C3C
+GitHub Repository: Dark-Joke-Generator Repository
+
+Important Note:
+I want to make it clear that I am not responsible for the jokes displayed in the application. The jokes are sourced from an external API.
+
+Support and Motivation:
+Your support is invaluable! If you find the application enjoyable, please consider starring the GitHub repository. Your encouragement inspires me to create more unique applications in the future. Thank you for your support!
+
+Please note that the current version, 2.3.2, is supported and should work seamlessly. Any other API version not mentioned in the latest README file on the updated GitHub Repository might have bugs or certain features may not function properly, depending on how much the API has been updated.
